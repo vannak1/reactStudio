@@ -1,0 +1,9 @@
+.Main {
+  padding-top: 20px;
+  padding-left: 360px;
+}
+
+.Main button.waves-effect {
+  float: right;
+  margin-right: 350px;
+}
